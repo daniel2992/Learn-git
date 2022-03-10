@@ -1,2 +1,2 @@
 # Learn-git
-# By D
+# By Daniel Demelash
